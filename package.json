@@ -1,0 +1,14 @@
+{
+    “name”: com.jewoo.fontpackage”,
+    “version”: “0.0.1”,
+    “displayName”: “Fonts Assets”,
+    “description”: “fonts”,
+    “unity”: “2020.3”,
+    “keywords”: [“tool”, utility”, “font”],
+    “author”:
+    {
+        “name”: “jewoo”,
+        “email”: “songjeu26@gmail.com”,
+        “url”: “https://github.com/LSCONS0206/FontAssets”
+    }
+}
